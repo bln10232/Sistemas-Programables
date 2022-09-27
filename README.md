@@ -1,2 +1,2 @@
 # Sistemas-Programables
-Prácticas de electrónica Básica y Arduino
+Prácticas de Arduino
